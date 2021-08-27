@@ -1,0 +1,30 @@
+{
+  "name": "ngx-bs-tooltip",
+  "version": "1.0.0",
+  "description": "Simple tooltip control for your angular applications using bootstrap3.",
+  "main": "ng-package.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajay-jagtap/ngx-bs-tooltip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "angular",
+    "typescript",
+    "angular-tooltip"
+  ],
+  "author": "Ajay Jagtap <ajayjagtap.10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajay-jagtap/ngx-bs-tooltip/issues"
+  },
+  "homepage": "https://github.com/ajay-jagtap/ngx-bs-tooltip#readme",
+  "peerDependencies": {
+    "@angular/common": ">=2.0.0 <13.0.0",
+    "@angular/core": ">=2.0.0 <13.0.0",
+    "rxjs": ">=5.0.0 <8.0.0"
+  },
+  "dependencies": {
+    "tslib": ">=1.0.0 <3.0.0"
+  }
+}
