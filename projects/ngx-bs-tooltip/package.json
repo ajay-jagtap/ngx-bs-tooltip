@@ -1,6 +1,6 @@
 {
   "name": "ngx-bs-tooltip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple tooltip control for your angular applications using bootstrap3.",
   "main": "ng-package.json",
   "repository": {
